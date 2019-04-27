@@ -10,6 +10,7 @@ setuptools.setup(
      author=["Azucena Morales","Alan Zhou"],
      author_email=["lm348@duke.edu","zz161@duke.edu"],
      description="Bayesian Hierachichal Clustering using Heller's article",
+     long_description = long_description,
      url="https://github.com/AzucenaMV/STAT-663",
      packages=setuptools.find_packages(['numpy','itertools','scipy','functools']),
      classifiers=[
