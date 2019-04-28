@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='BayesianClustering663',  
-     version='0.1',
+     version='0.2',
      author="Azucena Morales<lm348@duke.edu>, Alan Zhou<zz161@duke.edu>",
      author_email="alanazu@googlegroups.com",
      description="Bayesian Hierachichal Clustering using Heller's article",
